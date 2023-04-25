@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="40e4fb1e-97bf-4794-8cf9-3c1f6e2bcca1" name="eso">
+        <fileTransfer rootFolder="/home/kurp03" accessType="SFTP" host="esotemp.vse.cz" port="22" sshConfigId="655b8666-f617-4ee2-aedc-080b17e470ed" sshConfig="kurp03@esotemp.vse.cz:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
